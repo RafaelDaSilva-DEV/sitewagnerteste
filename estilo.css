@@ -1,0 +1,261 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+body{
+    background-image: url(planodefundo.png);
+}
+.div-texto-amarelo{
+    background-color: yellow;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.texto-amarelo{
+ text-align: center;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+}
+.venda-eficiente{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 150px;
+    font-family: 'Gulzar', serif;
+    color: rgb(3, 249, 40);
+}
+.texto-eficiente{
+    color: aliceblue;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 150px;
+}
+.sessao-maquina{
+    
+}
+.separacao{
+    padding-left: 220px;
+    
+    padding-top: 50px;
+}
+.div-1{
+    border: 1px greenyellow solid;
+    margin: 10px;
+    text-align: center;
+}
+.div-2{
+    border: 1px greenyellow solid;
+    margin: 10px;
+    text-align: center;
+}
+.div-3{
+    border: 1px greenyellow solid;
+    margin: 10px;
+    text-align: center;
+}
+.div-4{
+    border: 1px greenyellow solid;
+    margin: 10px;
+    text-align: center;
+}
+.numerogrande-verde{
+    
+    font-size: 20px;
+}
+.valor-atual{
+    color:rgb(7, 240, 7);
+}
+.texto-imagem-desconto{
+    color: #fff;
+    font-size: 200px;
+    text-align: center;
+    text-shadow: 0 0 0.1em rgb(148, 250, 5)
+}
+.imagem-porcentagem{
+    width: 300px;
+    height: 350px;
+}
+.escolha-sua-maquina{
+    
+    font-family: 'Gulzar', serif;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    color:rgb(7, 240, 7);
+    font-size: 45px;
+}
+.texto-catalogo-completo{
+    color:rgb(7, 240, 7);
+    font-size: 35px;
+    font-family: 'Gulzar', serif;
+    text-align: center;
+padding-top: 100px;
+}
+.botao-catalogo{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 100px;
+    
+}
+.botao-link-catalogo{
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Gulzar', serif;
+}
+.botao-link-catalogo:hover{
+color:aqua;
+}
+.sessao-bandeiras{
+    padding-top: 100px;
+    text-align: center;
+}
+.bandeiras{
+    text-align: center;
+    color:rgb(7, 240, 7);
+    font-family: 'Gulzar', serif;
+    font-size: 45px;
+    padding-bottom: 50px;
+}
+.imagem-bandeira{
+    width: 600px;
+    height: 50px;
+    
+}
+.sessao-desconto-cupon{
+    text-align: center;
+}
+.texto-do-cupon{
+    color:rgb(7, 240, 7);
+    font-family: 'Gulzar', serif;
+    font-size: 45px;
+    padding-top: 300px;
+}
+.imagem-cupon{
+    height: 350px;
+    width: 450px;
+}
+.planos{
+}
+.preto-cor{
+
+}
+.verde-cor{
+    color:rgb(7, 240, 7);
+}
+.div-ton{
+    padding-left: 350px;
+}
+.escolha-seu-plano{
+    text-align: center;
+    color:rgb(7, 240, 7);
+    font-family: 'Gulzar', serif;
+    font-size: 45px;
+    padding-bottom: 100px;
+    padding-top: 150px;
+}
+.alinhamento-vantagens{
+    padding-left: 190px;
+}
+.titulo-vantagem{
+    color:rgb(7, 240, 7);
+    font-family: 'Gulzar', serif;
+    font-size: 45px;
+    padding-top: 300px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+.rodape{
+    background-color: black;
+    
+}
+.texto-redes-sociais{
+    text-align: center;
+    color:rgb(7, 240, 7);
+    font-family: 'Gulzar', serif;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.imagem-redes{
+    text-align: center;
+    padding: 10px;
+    
+}
+.div-imagem-redes-soci{
+    text-align: center;
+}
+.texto-final{
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    padding-top: 100px;
+}
+@media (max-width:680.98px){
+    .texto-eficiente{
+        color: aliceblue;
+        text-align: center;
+        font-size: 15px;
+        padding-bottom: 100px;
+    }
+    .separacao{
+       padding-top: 50px;
+        padding-left: 80px;
+    }
+    .div-1{
+margin-bottom: 50px;
+    }
+    .div-2{
+        margin-bottom: 50px;
+    }
+    .div-3{
+        margin-bottom: 50px;       
+    }
+    .div-4{
+        margin-bottom: 50px;     
+    }
+    .texto-imagem-desconto{
+        color: #fff;
+        font-size: 70px;
+        text-align: center;
+    }
+    .imagem-porcentagem{
+        width: 80px;
+        height: 110px;
+    }
+    .imagem-bandeira{
+        width: 300px;
+        height: 50px;
+        
+    }
+    .imagem-cupon{
+        height: 300px;
+        width: 350px;
+    }
+    .div-ton{
+        padding-left: 80px;
+    }
+    .alinhamento-vantagens{
+        padding-left: 70px;
+    }
+    .titulo-vantagem{
+        color:rgb(7, 240, 7);
+        font-family: 'Gulzar', serif;
+        font-size: 25px;
+        padding-top: 100px;
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    .escolha-sua-maquina{
+        font-size: 35px;
+    }
+    .bandeiras{
+        font-size: 28px;
+    }
+    .escolha-seu-plano{
+        font-size: 30px;
+    }
+    .texto-do-cupon{
+        padding-top: 100px;
+    }
+    .texto-final{
+        
+    }
+}
